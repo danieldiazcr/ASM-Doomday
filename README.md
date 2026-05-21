@@ -1,6 +1,6 @@
 # Generador de Calendarios en Ensamblador
 
-Proyecto desarrollado en ensamblador x86 para DOS que permite generar
+Proyecto desarrollado en ensamblador x86 que permite generar
 calendarios mensuales o anuales utilizando cálculos de día de la semana
 basados en algoritmos tipo Doomsday/Sakamoto.
 
